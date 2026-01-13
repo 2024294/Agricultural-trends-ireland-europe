@@ -1,3 +1,5 @@
+# Agricultural-trends-ireland-europe
+Comparative data analysis of agricultural production, trade, and sustainability in Ireland versus major European countries using statistics, machine learning, and sentiment analysis.
 # Agricultural Trends and Insights: Ireland vs European Countries
 
 This project presents a comprehensive analysis of agricultural trends in **Ireland**

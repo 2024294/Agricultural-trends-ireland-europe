@@ -1,5 +1,3 @@
-# Agricultural-trends-ireland-europe
-Comparative data analysis of agricultural production, trade, and sustainability in Ireland versus major European countries using statistics, machine learning, and sentiment analysis.
 # Agricultural Trends and Insights: A Comparative Analysis of Ireland and European Countries
 
 This project presents a comprehensive analysis of agricultural trends in **Ireland**
@@ -135,5 +133,5 @@ prepared for professional portfolio presentation.
 ---
 
 ## 👤 Author
-**Mesut Uğur**  
+**Mesut UGUR**  
 MSc Data Analytics  
